@@ -10,9 +10,11 @@ The data to complete this audit were the following:
 3. Calculate the total number of votes cast.
 4. Calculate the percentage of votes each candidate won.
 5.Determine which county had the highest participation.
-![PYPOLL1](https://user-images.githubusercontent.com/86340630/125258413-eeede400-e2c3-11eb-83ee-fee1a4e9661c.png)
-![PYPOLL2](https://user-images.githubusercontent.com/86340630/125258434-f614f200-e2c3-11eb-8b9d-9ac494352990.png)
-![PYPOLL3](https://user-images.githubusercontent.com/86340630/125258455-fc0ad300-e2c3-11eb-8cc4-7188ea1aecd0.png)
+
+![Captura de pantalla (642)](https://user-images.githubusercontent.com/86340630/127793419-b1bee07f-ab4e-4d4e-b4ce-274f5de645fa.png)
+![Captura de pantalla (643)](https://user-images.githubusercontent.com/86340630/127793530-bc1db6d8-16aa-49e6-bbb7-de958bfda1c1.png)
+![Captura de pantalla (640)](https://user-images.githubusercontent.com/86340630/127793560-04811174-3e58-42a6-9aa8-0923a782e3f0.png)
+
 
 
 # RESULTS
